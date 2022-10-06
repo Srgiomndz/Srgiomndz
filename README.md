@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sergio Mendez</h1>
-<h3 align="center">Hello! My name is Sergio Mendez, and I am a full-stack web developer from the bay area. I am passionate about web technologies and enjoy solving problems through code. Currently, I am building a calorie tracker app with features that I think are missing in many popular diet-related apps. In my free time, I enjoy exercising and learning new things. Currently, I am learning React and Typescript. Feel free to reach out to me with any questions!</h3>
+<h3 align="center">Hello! My name is Sergio Mendez, and I am a full-stack web developer from the bay area. I am passionate about web technologies and enjoy solving problems through code. Currently, I am building a calorie tracker app with features that I think are missing in many popular diet-related apps. Currently, I am learning React and Typescript. Feel free to reach out to me with any questions!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
