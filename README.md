@@ -1,5 +1,5 @@
 ![](banner2.png)
-<h1 align="center">I'm Sergio Mendez</h1>
+
 <p align="center">Hello! My name is Sergio Mendez, and I am a full-stack web developer from the bay area. I am passionate about web technologies and enjoy solving problems through code. Currently, I am building a calorie tracker app with features that I think are missing in many popular diet-related apps. In my free time, I am learning React and Typescript. Feel free to reach out to me with any questions!</p>
 
 <h3 align="left">Connect with me:</h3>
