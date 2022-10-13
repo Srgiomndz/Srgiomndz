@@ -5,7 +5,6 @@
 
 
 <!-- SOCIALS -->
-<h1 align="center">Connect with me</h1>
   <p align="center">   
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
