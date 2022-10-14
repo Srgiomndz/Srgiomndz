@@ -8,7 +8,7 @@
 
 <!-- SOCIALS -->
   <p align="center"> 
-    <h1>Contact here:</h1>
+    <h1 align="center">Contact me here:</h1>
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href=""><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
