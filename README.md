@@ -1,4 +1,4 @@
-![](ghHeader.png)
+![](srgiomndzGhBanner.png)
 
 <p align="center">Hello! I'm a software engineer with a passion for learning new languages and frameworks, and working with teams to build the best products. I have experience with javascript, HTML, CSS, node.js and am currently learning react and typescript. I'm looking for opportunities to grow my skills in these areas as well as learn new ones! I love working in teams because it allows me to learn from others while sharing what I know.</p>
 
