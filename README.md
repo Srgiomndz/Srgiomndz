@@ -1,6 +1,10 @@
 ![](ghBanner.png)
 
-<p align="center">Hello! My name is Sergio Mendez, and I am a full-stack web developer from the bay area. I am passionate about web technologies and enjoy solving problems through code. Currently, I am building a calorie tracker app with features that I think are missing in many popular diet-related apps. In my free time, I am learning React and Typescript. Feel free to reach out to me with any questions!</p>
+<p align="center">Hello! I'm a software engineer with a passion for learning new languages and frameworks, and working with teams to build the best products.
+
+I have experience with javascript, HTML, CSS, node.js and am currently learning react and typescript.
+
+I'm looking for opportunities to grow my skills in these areas as well as learn new ones! I love working in teams because it allows me to learn from others while sharing what I know.</p>
 
 
 
