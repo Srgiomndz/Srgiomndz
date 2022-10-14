@@ -2,10 +2,13 @@
 
 <p align="center">Hello! I'm a software engineer with a passion for learning new languages and frameworks, and working with teams to build the best products. I have experience with javascript, HTML, CSS, node.js and am currently learning react and typescript. I'm looking for opportunities to grow my skills in these areas as well as learn new ones! I love working in teams because it allows me to learn from others while sharing what I know.</p>
 
+ <h1 align="center">Hi there👋, I'm Sergio!</h1>
+<h3 align="center">A full stack software engineer from San Francisco, CA.</h3>
 
 
 <!-- SOCIALS -->
-  <p align="center">   
+  <p align="center"> 
+    <h1>Contact here:</h1>
     <a href=""><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
     <a href=""><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href=""><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
