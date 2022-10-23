@@ -2,8 +2,7 @@
 
 <p align="center">Hello, my name is Sergio. I am a Latinx software engineer based in the San Francisco bay area. Currently, I am creating full-stack web applications for clients using HTML, CSS, and Javascript. I have always been interested in problem-solving, engineering, and building something from scratch, leading me to pursue a career in technology. When I am not behind a keyboard, you can find me weightlifting or trying out new cuisines! Please feel free to reach out to me for anything. I am always interested in meeting new people and hearing about their projects.</p>
 
- <h1 align="center">Hi there👋🏽 I'm Sergio!</h1>
-<h3 align="center">Contact.</h3>
+
 
 
 <!-- SOCIALS -->
