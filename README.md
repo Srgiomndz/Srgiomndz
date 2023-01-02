@@ -10,7 +10,7 @@
 <!-- SOCIALS -->
   <p align="center"> 
     <a href="https://www.linkedin.com/in/srgiomndz/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
-    <a href=""><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
+    <a href="https://twitter.com/_serrg_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href=""><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
 
